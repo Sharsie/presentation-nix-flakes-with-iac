@@ -6,35 +6,35 @@ layout: end
 
 Questions?
 
-## Resources
+<hr class="my-4 border-t opacity-20">
 
-<div><carbon-logo-linkedin /> <a href="https://linkedin.com/in/lukas-cech" target="_blank">lukas-cech</a> | <a href="https://profile.c3c.cz" target="_blank">profile.c3c.cz</a></div>
+<div><carbon-logo-linkedin /> <a href="https://linkedin.com/in/lukas-cech" target="_blank">lukas-cech</a> | <a href="https://c3c.cz" target="_blank">c3c.cz</a></div>
 
-Deck: [nix-direnv.c3c.cz](https://nix-direnv.c3c.cz)
+Additional resources [c3c.cz/talks/nix-direnv](https://c3c.cz/talks/nix-direnv)
 
-Sources: [deck.c3c.cz/nix-direnv](https://deck.c3c.cz/nix-direnv)
+This deck online: [nix-direnv.c3c.cz](https://nix-direnv.c3c.cz)
 
 <hr class="my-4 border-t opacity-20">
 
-<div grid="~ cols-2 gap-4">
+<div grid="~ cols-2 gap-x-8" class="text-left text-sm max-w-3xl mx-auto">
 
 <div>
 
-Getting started with nix: [docs.determinate.systems](https://docs.determinate.systems/getting-started/individuals/)
+**Get started**
 
-Getting started with direnv: [direnv.net](https://direnv.net)
-
-Nix documentation: [nix.dev](https://nix.dev)
+- Nix — [docs.determinate.systems](https://docs.determinate.systems/getting-started/individuals/)
+- direnv — [direnv.net](https://direnv.net)
+- [deck.c3c.cz/nix-macos-rootless](https://deck.c3c.cz/nix-macos-rootless)
 
 </div>
 
 <div>
 
-Nix package search: [search.nixos.org](https://search.nixos.org)
+**Go deeper**
 
-Nixpkgs on GitHub: [github.com/nixos/nixpkgs](https://github.com/nixos/nixpkgs)
-
-MacOS Rootless install: [deck.c3c.cz/nix-macos-rootless](https://deck.c3c.cz/nix-macos-rootless)
+- Docs — [nix.dev](https://nix.dev)
+- Package search — [search.nixos.org](https://search.nixos.org)
+- Nixpkgs — [github.com/nixos/nixpkgs](https://github.com/nixos/nixpkgs)
 
 </div>
 
